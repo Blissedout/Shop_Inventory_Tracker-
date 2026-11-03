@@ -14,6 +14,7 @@
 2.	Product: name, price, quantity available, restock warning.
 3.	Sale: date and time, total amount
 4.	SalesItem: product, price at sale, quantity sold.
+5.	Category: name
 
 ## What User does:
 1.	Add product
@@ -25,5 +26,5 @@
 ## Relationships:
 1.	One sale -> Many SalesItem
 2.	Many SalesItem can point to one Product
-3.	User records all sales
+3.	One User records many sales
 4.	Category has many products
