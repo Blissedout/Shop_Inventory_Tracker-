@@ -1,2 +1,9 @@
 # Shop_Inventory_Tracker-
 An inventory platform for businesses to track sales and products.
+
+ENTITIES:
+1. USER: BUSINESS OWNER 
+2. PRODUCT: ITEMS BEING SOLD
+3. CATEGORY: PRODUCT TYPES 
+4. SALES: NUMBER OF ITEMS SOLD, AMOUNT.
+5. SALES STATEMENT: A HISTORY OF SALES MADE DAILY, WEEKLY OR MONTHLY.
