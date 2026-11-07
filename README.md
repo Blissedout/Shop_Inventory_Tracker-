@@ -28,3 +28,6 @@
 2.	Many SalesItem can point to one Product
 3.	One User records many sales
 4.	Category has many products
+
+## Note: 
+The app needs DB_USERNAME and DB_PASSWORD set as environment variables
